@@ -1,0 +1,6 @@
+Sound priority
+
+3 = Background Music
+2 = Most Important
+1 = Important
+0 = Unimportant

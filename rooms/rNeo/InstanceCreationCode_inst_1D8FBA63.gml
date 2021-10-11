@@ -1,0 +1,1 @@
+text = "15 X 31 = 466\nTrue or False\n<-"

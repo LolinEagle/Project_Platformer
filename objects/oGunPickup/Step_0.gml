@@ -1,0 +1,1 @@
+if(!global.gamePaused){z = ystart + sin(get_timer() / 100000) * 5;}

@@ -1,0 +1,1 @@
+if(!global.gamePaused){z += scWave(-0.25, 0.25, 1, 0);}

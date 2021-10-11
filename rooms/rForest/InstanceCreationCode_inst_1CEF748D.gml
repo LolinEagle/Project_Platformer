@@ -1,0 +1,1 @@
+text = "Movement = ZQSD\nJump = Spacebar\nFire = Mouse 1\nF1 = Full Screen"

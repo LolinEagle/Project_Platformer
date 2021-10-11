@@ -1,0 +1,17 @@
+The end?
+Finish the game
+
+Deadly
+Kill all the enemy (45)
+
+Rare collectible
+Collect all red coins (24)
+
+Compulsive collector
+Collect all regular coin (210)
+
+Pacifist
+Finish without killing anyone
+
+Ultimate snake
+Finish with no coin
