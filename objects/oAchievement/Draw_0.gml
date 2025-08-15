@@ -29,8 +29,8 @@ for(var _i = 0; _i <= achievement; _i++){
 //Ending
 if(achievement == 5 && global.Achievement[5] == true){
 	scDrawSetText(c_black, fRoboto24, fa_center, fa_top);
-	var xx = 172;
-	var yy = 486;
+	xx = 172;
+	yy = 486;
 	draw_text(xx - 2, yy, "Congratulation !");
 	draw_text(xx + 2, yy, "Congratulation !");
 	draw_text(xx, yy - 2, "Congratulation !");
